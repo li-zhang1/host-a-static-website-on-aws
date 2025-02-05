@@ -1,3 +1,6 @@
+## Architecture Diagram
+![Static_Website Architecture](Host_a_Static_Website_on_AWS.png)
+
 # Host a Static Website on AWS
 
 ## Project Overview
@@ -79,6 +82,4 @@ systemctl start httpd
 ## Contributions
 Feel free to fork the repository and submit pull requests for improvements.
 
-## Architecture Diagram
-![VPC Architecture](VPC.png)
 
